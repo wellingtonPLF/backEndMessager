@@ -1,6 +1,7 @@
 usuario = Usuario.create([
     { 
-        name: "wellington", 
+        name: "wellington",
+        email: "well@gmail.com",
         password: "narutostorm3@#!" 
     }
 ])
